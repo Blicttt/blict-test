@@ -1,2 +1,2 @@
-# blict-test
+# blict
 Blict test 
